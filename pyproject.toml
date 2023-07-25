@@ -1,0 +1,15 @@
+[project]
+name = "realtor-api-wrapper"
+version = "0.0.1"
+description = "Realtor.ca API Wrapper"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: GNU General Public",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/kamioon/realtor-api-wrapper"
+"Bug Tracker" = "https://github.com/kamioon/realtor-api-wrapper/issues"
