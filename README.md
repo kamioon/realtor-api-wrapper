@@ -1,1 +1,1 @@
-This a Python library for wrapp the Realtor APi
+This a Python library for wrapping the Realtor APi
